@@ -28,3 +28,6 @@ Make selection from list using arrow keys:
   Update an employee role
 
 Follow prompts.
+
+## Video Walkthrough
+https://drive.google.com/file/d/1TgnJqBgVng-gmejFCcjAWUUZP3RbVoTs/view
